@@ -1,0 +1,171 @@
+Ticker,Company Name,Sector,Industry,Exchange,Cash/Debt,Interest Coverage,Equity/Assets,Debt/Equity,Debt/Assets,Debt/EBITDA,F-Score,Z-Score,M-Score,WACC,RoC,FS score,FS warnings
+IBM,International Business Machines Corporation,Technology,Information Technology Services,NYSE,0.14,7.91,13.69%,301.80%,79.89%,358.01%,5,2.73,-2.53,6.14%,8.28%,2.75/8.0,2
+AAPL,Apple Inc,Technology,Consumer Electronics,NASDAQ,0.81,23.07,20.17%,172.08%,34.71%,138.78%,7,6.73,-3.12,8.23%,23.71%,5.5/8.0,0
+CMRE,Costamare Inc,Industrials,Marine Shipping,NYSE,0.11,2.3,46.85%,100.43%,0.00%,475.50%,6,0.65,-2.75,7.81%,6.45%,1.75/8.0,3
+TSLA,"Tesla, Inc",Consumer Cyclical,Auto Manufacturers,NASDAQ,0.47,0.12,19.29%,202.77%,39.73%,617.25%,8,15.79,-2.49,13.48%,0.30%,3.25/8.0,2
+AMD,"Advanced Micro Devices, Inc",Technology,Semiconductors,NASDAQ,3.09,6.71,46.90%,17.19%,8.79%,67.13%,6,21.3,-2.08,14.31%,24.32%,6.0/8.0,1
+SE,Sea Limited,Communication Services,Electronic Gaming & Multimedia,NYSE,2.32,Exposed,22.24%,119.45%,26.91%,-115.76%,7,13.1,-2.74,8.83%,-41.92%,5.0/8.0,1
+XPEL,"XPEL, Inc",Consumer Cyclical,Auto Parts,NASDAQ,inf,,67.31%,0.00%,0.00%,0.00%,5,50.78,-2.17,10.24%,52.96%,4.0/8.0,1
+AMRC,"Ameresco, Inc",Industrials,Engineering & Construction,NYSE,0.1,,31.22%,78.32%,25.57%,369.23%,3,2.78,-1.57,3.59%,5.10%,2.0/8.0,4
+NVDA,NVIDIA Corporation,Technology,Semiconductors,NASDAQ,5.47,54.73,70.48%,16.31%,11.96%,58.51%,6,41.39,-2.97,9.51%,55.25%,7.0/8.0,0
+AMZN,"Amazon.com, Inc",Consumer Cyclical,Internet Retail,NASDAQ,2.35,9.09,27.55%,37.73%,11.34%,62.66%,5,7.58,-2.88,7.81%,10.44%,7.0/8.0,0
+BBBY,Bed Bath & Beyond Inc,Consumer Cyclical,Specialty Retail,NASDAQ,0.93,Exposed,22.65%,84.31%,0.00%,-415.64%,4,3.85,-3.94,9.47%,-4.42%,3.0/8.0,3
+GOLD,Barrick Gold Corporation,Basic Materials,Gold,NYSE,0.61,5.82,48.28%,25.38%,13.81%,61.71%,6,1.25,-2.5,1.65%,6.00%,4.75/8.0,2
+JOE,The St. Joe Company,Real Estate,Real Estate-Diversified,NYSE,0.69,2.58,57.21%,51.92%,29.70%,457.63%,5,4.08,-2.65,7.40%,3.34%,3.5/8.0,0
+MCD,McDonald's Corporation,Consumer Cyclical,Restaurants,NYSE,0.03,7.92,-17.28%,-416.29%,76.23%,317.69%,5,4.23,-2.77,3.82%,18.14%,3.5/8.0,0
+MSFT,Microsoft Corporation,Technology,Software-Infrastructure,NASDAQ,2.16,20.44,39.26%,53.53%,25.24%,92.55%,9,7.69,-2.69,5.55%,25.83%,6.75/8.0,0
+PBR,0,Energy,Oil & Gas Integrated,NYSE,0.13,2.77,31.92%,86.28%,30.09%,188.71%,6,0.77,-3.02,8.51%,5.71%,3.0/8.0,1
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,NYSE,0.07,15.38,52.85%,23.61%,0.00%,113.45%,4,3.01,-2.65,7.38%,2.78%,4.25/8.0,2
+RS,Reliance Steel & Aluminum Co,Basic Materials,Steel,NYSE,0.11,6.3,64.04%,30.52%,31.18%,121.48%,7,4.56,-2.95,6.71%,10.13%,6.5/8.0,0
+SNAP,Snap Inc,Communication Services,Internet Content & Information,NYSE,2.37,Exposed,56.33%,39.47%,28.24%,-96.85%,4,22.05,-3.94,8.38%,-74.91%,5.0/8.0,1
+DHT,"DHT Holdings, Inc",Energy,Oil & Gas Midstream,NYSE,0.08,2.53,51.01%,91.31%,0.00%,347.35%,8,0.98,-2.32,2.95%,7.91%,4.25/8.0,3
+PG,The Procter & Gamble Company,Consumer Defensive,Household & Personal Products,NYSE,0.47,33.78,38.54%,74.63%,60.90%,179.78%,7,5.04,-2.87,2.78%,12.03%,6.0/8.0,0
+EMN,Eastman Chemical Company,Basic Materials,Chemicals,NYSE,0.04,5.92,37.22%,97.05%,60.44%,333.45%,6,2.45,-2.77,8.02%,7.57%,3.5/8.0,0
+KSS,Kohl's Corporation,Consumer Cyclical,Department Stores,NYSE,0.39,5.86,37.44%,34.06%,12.75%,91.65%,4,3.49,-3.73,8.65%,8.88%,6.0/8.0,0
+BHP,BHP Group,Basic Materials,Other Industrial Metals & Mining,NYSE,0.59,16.75,45.75%,47.71%,21.95%,111.53%,4,3.42,-2.77,5.97%,11.03%,5.25/8.0,1
+TSN,"Tyson Foods, Inc",Consumer Defensive,Farm Products,NYSE,0.13,6.42,44.52%,73.32%,66.43%,254.98%,6,3.02,-2.84,4.61%,7.97%,5.0/8.0,0
+HPQ,HP Inc,Technology,Computer Hardware,NYSE,0.88,12.4,-3.56%,-430.60%,19.43%,146.39%,5,2.26,-2.55,6.74%,13.42%,2.5/8.0,0
+FB,"Facebook, Inc",Communication Services,Internet Content & Information,NASDAQ,198.03,1199.3,75.77%,0.27%,0.24%,0.91%,4,16.8,-3.23,7.86%,28.15%,7.0/8.0,0
+COP,ConocoPhillips,Energy,Oil & Gas E&P,NYSE,0.69,9.77,49.61%,42.58%,21.12%,90.87%,7,2.52,-3.13,10.06%,10.35%,6.0/8.0,0
+CRS,Carpenter Technology Corporation,Industrials,Metal Fabrication,NYSE,0.27,6.4,44.81%,49.93%,25.03%,481.33%,4,2.23,-2.78,10.29%,1.09%,3.0/8.0,0
+BEN,"Franklin Resources, Inc",Financial Services,Asset Management,NYSE,0.91,31.79,50.02%,43.01%,40.26%,368.64%,4,2.23,-2.26,6.96%,7.03%,5.5/9.0,0
+EGOV,NIC Inc,Technology,Software-Application,NASDAQ,inf,,67.96%,0.00%,0.00%,0.00%,3,11.1,-2.45,2.35%,101.37%,5.0/8.0,1
+HRB,"H&R Block, Inc",Consumer Cyclical,Personal Services,NYSE,0.76,1.91,1.39%,4922.54%,87.70%,1333.97%,3,1.32,-2.24,4.36%,7.99%,1.0/8.0,2
+RTX,Raytheon Technologies Corporation,Industrials,Aerospace & Defense,NYSE,0.17,5.06,29.90%,104.49%,66.53%,316.31%,5,1.91,-2.7,5.40%,5.78%,3.5/8.0,0
+INVA,"Innoviva, Inc",Healthcare,Biotechnology,NASDAQ,0.93,12.95,43.17%,120.45%,52.00%,142.26%,6,2.33,-3.17,4.57%,50.69%,3.5/8.0,1
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers-General,NYSE,0.7,63.14,37.70%,46.57%,36.23%,112.33%,5,4.51,-2.62,4.55%,15.25%,4.0/8.0,1
+TMO,Thermo Fisher Scientific Inc,Healthcare,Diagnostics & Research,NYSE,0.14,6.18,50.83%,59.82%,95.17%,252.77%,9,5.18,-2.56,5.66%,7.49%,4.75/8.0,1
+NFLX,"Netflix, Inc",Communication Services,Entertainment,NASDAQ,0.34,4.16,22.32%,194.66%,155.83%,122.91%,3,6.14,-1.48,6.26%,8.59%,3.0/8.0,3
+KODK,Eastman Kodak Company,Industrials,Specialty Business Services,NYSE,2.2,Exposed,19.86%,37.72%,7.82%,963.64%,6,1.14,-2.06,23.68%,-5.80%,3.0/8.0,4
+PVG,Pretium Resources Inc,Basic Materials,Gold,NYSE,0.06,3.77,60.65%,41.61%,0.00%,198.50%,8,2.47,-1.97,6.41%,4.09%,3.5/8.0,3
+APT,"Alpha Pro Tech, Ltd",Industrials,Building Products & Equipment,NYSE MKT,inf,,86.84%,0.00%,0.00%,0.00%,4,22.2,-2.39,-6.80%,9.06%,5.75/8.0,0
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,NYSE,0.22,7.01,18.33%,247.23%,46.40%,462.59%,5,0.97,-2.7,3.88%,2.58%,1.25/8.0,4
+UBER,"Uber Technologies, Inc",Technology,Software-Application,NYSE,1.98,Exposed,44.68%,40.22%,18.10%,-77.10%,3,2.08,-2.88,1.22%,-46.22%,3.0/8.0,3
+NTR,Nutrien Ltd,Basic Materials,Agricultural Inputs,NYSE,0.07,3.82,48.87%,43.86%,30.97%,273.62%,5,1.48,-2.64,5.12%,3.95%,2.0/8.0,3
+CF,"CF Industries Holdings, Inc",Basic Materials,Agricultural Inputs,NYSE,0.07,4.17,23.80%,136.59%,40.81%,211.49%,7,1.37,-2.95,6.86%,6.80%,3.5/8.0,3
+ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,NYSE,0.1,4.11,43.66%,46.24%,23.05%,297.72%,6,3.06,-1.56,5.44%,3.99%,2.0/8.0,3
+EVGN,Evogene Ltd,Healthcare,Biotechnology,NASDAQ,inf,No Debt,70.42%,0.00%,0.00%,-0.00%,3,0.13,0.89,4.83%,-135.48%,4.0/8.0,3
+ALCO,"Alico, Inc",Consumer Defensive,Farm Products,NASDAQ,0.02,1.17,50.94%,69.44%,0.00%,288.46%,3,1.66,2.52,4.03%,1.34%,1.0/8.0,5
+MOS,The Mosaic Company,Basic Materials,Agricultural Inputs,NYSE,0.11,1.7,47.60%,50.24%,0.00%,-2939.49%,3,1.79,-2.51,9.06%,2.08%,2.25/8.0,4
+RFP,Resolute Forest Products Inc,Basic Materials,Paper & Paper Products,NYSE,0.01,1.06,34.03%,35.82%,12.35%,211.48%,6,0.66,-2.55,5.77%,-4.22%,3.25/8.0,3
+IPI,"Intrepid Potash, Inc",Basic Materials,Agricultural Inputs,NYSE,0.3,5.33,75.26%,16.09%,0.00%,137.25%,4,1.36,-2.75,12.81%,3.17%,3.5/8.0,3
+ICL,ICL Group Ltd,Basic Materials,Agricultural Inputs,NYSE,0.13,3.44,42.79%,58.62%,26.52%,179.63%,3,2.22,-3.06,4.82%,7.33%,4.0/8.0,2
+AGFS,"AgroFresh Solutions, Inc",Consumer Defensive,Farm Products,NASDAQ,0.07,Exposed,40.45%,123.62%,238.46%,1033.33%,4,,-2.86,8.16%,-3.81%,1.0/8.0,6
+WLKP,Westlake Chemical Partners LP,Basic Materials,Chemicals,NYSE,0.05,17.5,0.00%,0.00%,0.00%,86.77%,7,2.19,-4.25,7.00%,25.61%,3.5/8.0,1
+FUBO,fuboTV Inc,Communication Services,Entertainment,NYSE,0.16,Exposed,54.62%,24.88%,217.39%,-250.00%,2,2.85,-5.63,16.80%,-9.05%,4.0/8.0,4
+BNGO,"Bionano Genomics, Inc",Healthcare,Diagnostics & Research,NASDAQ,0.85,No Debt,13.33%,500.00%,0.00%,-76.92%,4,-2.55,,18.08%,-173.33%,2.0/8.0,4
+SXC,"SunCoke Energy, Inc",Basic Materials,Coking Coal,NYSE,0.12,1.72,28.05%,159.15%,45.63%,78300.00%,7,1.22,-3.17,7.32%,6.41%,3.0/8.0,3
+HP,"Helmerich & Payne, Inc",Energy,Oil & Gas Drilling,NYSE,1.2,Exposed,68.72%,14.49%,10.23%,-370.00%,2,2.43,-2.94,12.74%,-1.89%,5.25/8.0,3
+RIG,Transocean Ltd,Energy,Oil & Gas Drilling,NYSE,0.19,Exposed,49.21%,78.07%,0.00%,1837.50%,4,0.11,-2.53,8.73%,-0.45%,1.75/8.0,5
+LNG,"Cheniere Energy, Inc",Energy,Oil & Gas Midstream,NYSE MKT,0.08,1.68,-0.04%,-219814.29%,0.00%,1050.67%,8,0.56,-2.33,6.58%,7.71%,2.75/8.0,2
+INT,World Fuel Services Corporation,Energy,Oil & Gas Refining & Marketing,NYSE,0.3,3.99,31.54%,33.28%,12.77%,155.31%,8,7.19,-2.55,8.37%,8.83%,5.75/8.0,1
+MMP,"Magellan Midstream Partners, L.P",Energy,Oil & Gas Midstream,NYSE,0.01,5.12,0.00%,0.00%,56.45%,320.14%,4,1.63,-2.57,6.22%,13.27%,3.25/8.0,2
+GNE,Genie Energy Ltd,Utilities,Utilities-Regulated Electric,NYSE,6.2,10.0,60.90%,5.26%,3.65%,50.00%,8,3.9,-2.58,4.97%,3.47%,7.25/8.0,1
+KMI,"Kinder Morgan, Inc",Energy,Oil & Gas Midstream,NYSE,0.03,2.18,45.50%,101.63%,68.54%,464.85%,4,0.56,-2.81,5.04%,3.64%,1.75/8.0,3
+COG,Cabot Oil & Gas Corporation,Energy,Oil & Gas E&P,NYSE,0.16,15.95,47.94%,56.72%,0.00%,89.64%,5,3.47,-4.1,1.94%,16.27%,5.5/8.0,1
+SBR,Sabine Royalty Trust,Energy,Oil & Gas E&P,NYSE,,,85.71%,0.00%,0.00%,0.00%,3,281.09,26.1,4.45%,550.00%,4.0/8.0,2
+CVI,"CVR Energy, Inc",Energy,Oil & Gas Refining & Marketing,NYSE,0.57,5.65,35.67%,81.41%,0.00%,128.86%,3,2.56,-2.99,10.31%,15.09%,2.0/8.0,2
+DRQ,"Dril-Quip, Inc",Energy,Oil & Gas Equipment & Services,NYSE,inf,,90.39%,0.00%,0.00%,0.00%,3,8.02,-2.4,9.98%,0.14%,4.75/8.0,2
+RES,"RPC, Inc",Energy,Oil & Gas Equipment & Services,NYSE,inf,No Debt,78.82%,0.00%,0.00%,0.00%,3,4.33,-3.23,13.19%,-3.89%,6.0/8.0,2
+DWSN,Dawson Geophysical Company,Energy,Oil & Gas Equipment & Services,NASDAQ,7.0,No Debt,80.47%,3.88%,0.00%,57.14%,5,1.85,-3.28,10.23%,-16.24%,6.0/8.0,1
+GHM,Graham Corporation,Industrials,Specialty Industrial Machinery,NYSE,inf,,65.54%,0.00%,0.00%,0.00%,3,4.13,-2.3,5.80%,1.34%,4.75/8.0,2
+NOV,NOV Inc,Energy,Oil & Gas Equipment & Services,NYSE,0.59,Exposed,59.15%,25.57%,20.96%,-34.12%,6,1.52,-2.76,9.55%,-3.34%,4.75/8.0,3
+APOG,"Apogee Enterprises, Inc",Industrials,Building Products & Equipment,NASDAQ,0.07,11.0,45.79%,41.97%,27.02%,160.74%,7,3.02,-2.72,6.87%,7.41%,6.5/8.0,1
+LPX,Louisiana-Pacific Corporation,Industrials,Building Products & Equipment,NYSE,0.52,4.47,54.01%,35.02%,0.00%,296.58%,7,5.33,-1.87,11.04%,5.23%,5.5/8.0,3
+FLR,Fluor Corporation,Industrials,Engineering & Construction,NYSE,1.19,Exposed,18.68%,113.64%,0.00%,-163.86%,5,2.27,-4.38,11.75%,-13.24%,3.0/8.0,3
+SUM,"Summit Materials, Inc",Basic Materials,Building Materials,NYSE,0.17,1.83,35.08%,130.27%,65.34%,444.74%,7,1.36,-2.68,6.56%,4.73%,1.75/8.0,3
+GFF,Griffon Corporation,Industrials,Tools & Accessories,NYSE,0.21,2.31,28.50%,149.57%,63.15%,493.87%,4,2.13,-2.31,8.06%,5.55%,1.75/8.0,2
+HIL,"Hill International, Inc",Industrials,Engineering & Construction,NYSE,0.37,2.67,40.37%,39.45%,0.00%,159.26%,4,1.91,-2.49,11.98%,9.33%,3.25/8.0,2
+PLPC,Preformed Line Products Company,Industrials,Electrical Equipment & Parts,NASDAQ,0.59,17.5,61.98%,24.54%,16.88%,140.43%,5,4.08,-2.31,6.55%,8.33%,5.75/8.0,1
+EML,The Eastern Company,Industrials,Tools & Accessories,NASDAQ,0.18,10.0,37.37%,94.29%,58.58%,396.00%,3,2.56,-2.29,5.76%,8.48%,2.75/8.0,3
+ULBI,Ultralife Corporation,Industrials,Specialty Industrial Machinery,NASDAQ,0.41,7.0,75.86%,15.45%,15.74%,170.00%,4,2.58,-1.14,10.17%,5.36%,3.0/8.0,3
+FCEL,"FuelCell Energy, Inc",Industrials,Electrical Equipment & Parts,NASDAQ,0.87,Exposed,48.47%,67.72%,34.40%,-318.52%,1,6.06,0.3,31.94%,-12.11%,3.0/8.0,5
+EBF,"Ennis, Inc",Industrials,Business Equipment & Supplies,NYSE,inf,,80.33%,0.00%,0.00%,0.00%,6,6.87,-2.5,3.51%,14.14%,6.75/8.0,0
+DCI,"Donaldson Company, Inc",Industrials,Specialty Industrial Machinery,NYSE,0.38,20.0,43.96%,63.53%,33.69%,142.50%,5,6.51,-2.89,8.27%,15.66%,4.5/8.0,1
+RAVN,"Raven Industries, Inc",Industrials,Specialty Industrial Machinery,NASDAQ,inf,,78.16%,0.00%,0.00%,0.00%,4,11.29,-1.95,9.57%,11.14%,4.5/8.0,1
+AZZ,AZZ Inc,Industrials,Electrical Equipment & Parts,NYSE,0.18,7.54,59.03%,32.02%,33.22%,157.36%,6,3.81,-2.81,8.97%,7.79%,4.5/8.0,2
+LXFR,Luxfer Holdings PLC,Industrials,Specialty Industrial Machinery,NYSE,0.11,9.4,44.62%,52.30%,29.64%,313.79%,4,3.38,-2.04,5.78%,3.87%,3.0/8.0,3
+POWL,"Powell Industries, Inc",Industrials,Electrical Equipment & Parts,NASDAQ,inf,,65.04%,0.00%,0.00%,0.00%,3,3.91,-3.41,8.18%,6.07%,6.0/8.0,2
+AAL,American Airlines Group Inc,Industrials,Airlines,NASDAQ,0.16,3.37,-0.20%,-20605.93%,45.18%,428.91%,2,0.83,-2.64,4.04%,4.28%,2.75/8.0,3
+HL,Hecla Mining Company,Basic Materials,Gold,NYSE,0.12,Exposed,64.16%,29.85%,0.00%,391.47%,7,2.13,0.37,13.02%,-1.59%,2.5/8.0,4
+TRQ,Turquoise Hill Resources Ltd,Basic Materials,Copper,NYSE,0.39,34.6,71.50%,45.72%,0.00%,-3408.13%,2,0.31,-2.15,4.65%,1.57%,3.0/8.0,5
+UUUU,Energy Fuels Inc,Energy,Uranium,NYSE MKT,1.06,No Debt,72.16%,13.39%,0.00%,-48.57%,4,2.62,1.12,8.29%,-17.33%,5.0/8.0,2
+NEM,Newmont Corporation,Basic Materials,Gold,NYSE,0.4,5.12,53.58%,28.66%,0.00%,103.09%,6,2.11,-2.14,1.82%,4.50%,2.5/8.0,2
+EGO,Eldorado Gold Corporation,Basic Materials,Gold,NYSE,0.39,1.23,73.46%,14.06%,0.00%,153.85%,7,0.64,-2.18,9.70%,0.81%,3.5/8.0,4
+KL,Kirkland Lake Gold Ltd,Basic Materials,Gold,NYSE,inf,,71.03%,0.00%,0.00%,0.00%,6,10.77,-3.36,4.62%,35.81%,6.0/8.0,0
+KGC,Kinross Gold Corporation,Basic Materials,Gold,NYSE,0.31,12.47,58.59%,34.54%,0.00%,103.67%,7,0.83,-2.43,6.26%,9.40%,5.25/8.0,2
+BTG,B2Gold Corp,Basic Materials,Gold,NYSE MKT,0.54,13.78,74.17%,13.17%,0.00%,34.47%,6,5.92,-0.99,8.23%,10.13%,5.5/8.0,2
+AGI,Alamos Gold Inc,Basic Materials,Gold,NYSE,inf,,79.36%,0.00%,0.00%,0.00%,6,2.93,-3.8,8.19%,3.13%,4.0/8.0,1
+GORO,Gold Resource Corporation,Basic Materials,Gold,NYSE MKT,7.5,,81.87%,1.27%,0.00%,5.26%,4,4.61,-0.4,11.87%,4.17%,4.5/8.0,2
+GFI,Gold Fields Limited,Basic Materials,Gold,NYSE,0.28,7.41,42.33%,66.47%,0.00%,173.99%,8,2.23,-2.69,3.45%,6.33%,4.75/8.0,1
+NEE,"NextEra Energy, Inc",Utilities,Utilities-Regulated Electric,NYSE,0.01,2.25,31.44%,115.07%,37.71%,403.13%,5,1.6,-2.55,2.34%,3.89%,1.75/8.0,2
+FSM,Fortuna Silver Mines Inc,Basic Materials,Silver,NYSE,0.56,52.0,67.84%,23.15%,15.71%,161.54%,5,3.77,-2.66,8.33%,3.99%,4.75/8.0,2
+PAAS,Pan American Silver Corp,Basic Materials,Silver,NASDAQ,0.87,8.65,71.14%,11.17%,7.95%,60.71%,5,4.74,-1.84,8.61%,3.84%,5.5/8.0,3
+AG,First Majestic Silver Corp,Basic Materials,Silver,NYSE,1.13,1.92,64.40%,23.56%,15.18%,390.00%,5,4.73,-3.83,8.74%,2.80%,4.5/8.0,1
+WPM,Wheaton Precious Metals Corp,Basic Materials,Gold,NYSE,0.12,6.47,84.84%,16.41%,13.93%,229.40%,8,12.44,0.24,3.10%,4.63%,6.5/8.0,2
+SSRM,SSR Mining Inc,Basic Materials,Gold,NASDAQ,2.01,4.69,64.80%,25.04%,16.71%,129.09%,7,3.43,-0.27,7.84%,7.61%,6.0/8.0,2
+GPL,Great Panther Mining Limited,Basic Materials,Other Industrial Metals & Mining,NYSE MKT,1.37,Exposed,36.90%,27.00%,10.15%,-55.10%,6,0.35,-0.02,16.09%,-26.17%,2.0/8.0,4
+SVM,Silvercorp Metals Inc,Basic Materials,Silver,NYSE MKT,inf,,71.93%,0.00%,0.00%,0.00%,5,6.09,-3.32,7.03%,10.99%,7.0/8.0,0
+HMLP,0,Energy,Oil & Gas Midstream,NYSE,0.08,3.2,0.00%,0.00%,0.00%,439.62%,6,0.87,-2.64,8.51%,6.94%,0.75/8.0,3
+HESM,Hess Midstream LP,Energy,Oil & Gas Midstream,NYSE,0.0,6.08,0.00%,0.00%,53.51%,336.02%,7,0.61,-2.84,6.61%,12.52%,3.75/8.0,2
+TGP,Teekay LNG Partners L.P,Energy,Oil & Gas Midstream,NYSE,0.24,1.75,0.00%,0.00%,34.34%,387.10%,6,0.32,-3.3,5.56%,5.12%,2.5/8.0,3
+SPH,"Suburban Propane Partners, L.P",Utilities,Utilities-Regulated Gas,NYSE,0.0,1.87,0.00%,0.00%,140.86%,480.16%,3,0.91,-2.9,5.36%,6.76%,1.5/8.0,5
+GMLP,Golar LNG Partners LP,Energy,Oil & Gas Midstream,NASDAQ,0.04,1.68,0.00%,0.00%,0.00%,614.65%,6,0.2,-3.04,4.19%,2.90%,1.0/8.0,3
+DKL,"Delek Logistics Partners, LP",Energy,Oil & Gas Midstream,NYSE,0.01,2.68,0.00%,0.00%,138.60%,465.36%,6,1.76,-3.26,12.86%,19.12%,1.5/8.0,4
+SGU,"Star Group, L.P",Energy,Oil & Gas Midstream,NYSE,0.46,9.2,0.00%,0.00%,24.17%,100.82%,3,2.36,-3.48,3.12%,8.98%,3.0/8.0,1
+WES,"Western Midstream Partners, LP",Energy,Oil & Gas Midstream,NYSE,0.01,3.44,0.00%,0.00%,71.70%,498.56%,5,0.81,-2.66,13.85%,8.50%,1.25/8.0,3
+TCP,"TC PipeLines, LP",Energy,Oil & Gas Midstream,NYSE,0.04,2.5,0.00%,0.00%,0.00%,432.61%,4,0.86,-3.25,5.41%,7.78%,2.0/8.0,2
+GLP,Global Partners LP,Energy,Oil & Gas Midstream,NYSE,0.01,1.53,0.00%,0.00%,49.53%,515.81%,6,4.97,-2.37,7.38%,6.16%,2.75/8.0,2
+HEP,"Holly Energy Partners, L.P",Energy,Oil & Gas Midstream,NYSE,0.01,3.43,0.00%,0.00%,79.98%,359.21%,5,1.03,-2.19,6.39%,12.51%,2.0/8.0,3
+HLX,"Helix Energy Solutions Group, Inc",Energy,Oil & Gas Equipment & Services,NYSE,0.51,6.18,65.46%,23.88%,15.70%,214.81%,4,1.1,-2.56,13.32%,2.79%,3.75/8.0,2
+CINR,Ciner Resources LP,Basic Materials,Chemicals,NYSE,0.12,17.83,0.00%,0.00%,0.00%,96.30%,4,2.46,-2.91,6.34%,26.49%,3.0/8.0,1
+BKEP,"Blueknight Energy Partners, L.P",Energy,Oil & Gas Midstream,NASDAQ,0.0,2.4,0.00%,0.00%,91.10%,433.90%,7,1.53,-3.27,7.61%,12.44%,3.5/8.0,2
+NS,NuStar Energy L.P,Energy,Oil & Gas Midstream,NYSE,0.0,,0.00%,0.00%,75.43%,504.91%,5,0.59,-2.51,5.29%,6.03%,2.25/8.0,2
+AMKR,"Amkor Technology, Inc",Technology,Semiconductors,NASDAQ,0.62,3.19,41.82%,73.83%,0.00%,191.80%,5,2.09,-2.84,8.55%,5.65%,3.0/8.0,2
+INTC,Intel Corporation,Technology,Semiconductors,NASDAQ,0.66,37.96,52.93%,44.92%,31.09%,95.93%,3,3.7,-3.12,4.74%,17.67%,4.25/8.0,2
+SIMO,Silicon Motion Technology Corporation,Technology,Semiconductors,NASDAQ,inf,,76.93%,0.00%,0.00%,0.00%,6,8.55,-2.3,7.01%,19.63%,6.75/8.0,0
+DAC,Danaos Corporation,Industrials,Marine Shipping,NYSE,0.1,2.79,32.87%,157.71%,0.00%,463.67%,6,0.59,-2.71,6.13%,7.46%,1.25/8.0,2
+GLNG,Golar LNG Limited,Energy,Oil & Gas Midstream,NASDAQ,0.09,1.25,32.34%,169.29%,0.00%,1798.58%,6,-0.17,-3.41,4.49%,2.43%,1.0/8.0,4
+TGH,Textainer Group Holdings Limited,Industrials,Rental & Leasing Services,NYSE,0.05,1.22,24.20%,301.59%,0.00%,801.05%,5,0.57,-2.38,5.49%,3.73%,0.75/8.0,4
+SB,"Safe Bulkers, Inc",Industrials,Marine Shipping,NYSE,0.18,1.63,42.42%,127.06%,0.00%,646.24%,3,0.55,-2.16,4.94%,4.27%,0.0/8.0,6
+LPG,Dorian LPG Ltd,Energy,Oil & Gas Midstream,NYSE,0.1,5.03,58.43%,64.99%,0.00%,299.53%,7,1.19,-2.32,6.45%,10.02%,4.75/8.0,2
+GASS,StealthGas Inc,Industrials,Marine Shipping,NASDAQ,0.19,1.1,58.60%,65.47%,38.36%,590.32%,7,0.43,-1.35,6.26%,2.41%,3.5/8.0,4
+KNOP,KNOT Offshore Partners LP,Industrials,Marine Shipping,NYSE,0.04,2.51,0.00%,0.00%,0.00%,500.00%,6,0.56,-3.87,6.02%,6.95%,1.5/8.0,2
+FRO,Frontline Ltd,Energy,Oil & Gas Midstream,NYSE,0.11,2.52,40.83%,112.12%,0.00%,720.43%,8,0.53,-2.85,4.51%,6.76%,2.75/8.0,3
+EURN,Euronav NV,Energy,Oil & Gas Midstream,NYSE,0.18,2.03,55.51%,72.19%,0.00%,319.12%,8,1.13,-2.83,3.41%,4.69%,4.75/8.0,2
+STNG,Scorpio Tankers Inc,Energy,Oil & Gas Midstream,NYSE,0.16,0.73,38.28%,62.42%,0.00%,367.26%,7,0.08,-3.53,6.23%,2.65%,3.0/8.0,3
+TNK,Teekay Tankers Ltd,Energy,Oil & Gas Midstream,NYSE,0.15,1.98,44.41%,61.62%,27.43%,243.03%,8,0.58,-2.77,4.46%,4.24%,4.25/8.0,3
+TNP,Tsakos Energy Navigation Limited,Energy,Oil & Gas Midstream,NYSE,0.12,1.64,46.01%,105.79%,0.00%,724.06%,7,0.47,-2.79,4.39%,3.72%,2.75/8.0,4
+TRTN,Triton International Limited,Industrials,Rental & Leasing Services,NYSE,0.01,2.12,26.26%,260.86%,70.64%,518.04%,5,0.88,-2.96,6.17%,6.35%,2.5/8.0,2
+NNA,Navios Maritime Acquisition Corporation,Energy,Oil & Gas Midstream,NYSE,0.05,0.55,20.18%,274.52%,0.00%,917.02%,8,-0.17,-2.51,7.88%,3.08%,1.75/8.0,4
+GSL,"Global Ship Lease, Inc",Industrials,Marine Shipping,NYSE,0.15,1.49,30.03%,220.94%,0.00%,557.14%,5,0.28,-2.2,9.26%,8.98%,0.0/8.0,5
+ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,NYSE,0.25,0.67,42.23%,63.50%,0.00%,608.82%,8,0.33,-2.97,5.83%,2.14%,2.5/8.0,3
+STLD,"Steel Dynamics, Inc",Basic Materials,Steel,NASDAQ,0.6,7.77,49.25%,67.08%,36.48%,206.50%,4,3.95,-2.84,7.89%,13.45%,5.5/8.0,0
+WOR,"Worthington Industries, Inc",Industrials,Metal Fabrication,NYSE,0.21,3.59,35.21%,85.26%,38.31%,297.87%,6,3.26,-3.41,6.50%,4.55%,3.0/8.0,3
+TX,Ternium S.A,Basic Materials,Steel,NYSE,0.45,9.83,51.11%,24.64%,13.44%,103.36%,4,2.67,-2.8,6.89%,5.92%,4.0/8.0,1
+IIIN,"Insteel Industries, Inc",Industrials,Metal Fabrication,NASDAQ,inf,,78.40%,0.00%,0.00%,0.00%,6,7.14,-2.66,9.97%,8.50%,4.75/8.0,1
+CMC,Commercial Metals Company,Basic Materials,Steel,NYSE,0.5,7.1,46.28%,57.38%,27.07%,181.27%,5,3.4,-3.06,6.79%,11.35%,4.5/8.0,0
+NRG,"NRG Energy, Inc",Utilities,Utilities-Independent Power Producers,NYSE,0.06,3.17,13.23%,355.31%,52.77%,354.45%,7,1.42,-1.09,6.55%,13.57%,3.0/8.0,3
+VST,Vistra Corp,Utilities,Utilities-Independent Power Producers,NYSE,0.03,3.53,29.90%,140.46%,52.44%,305.77%,6,0.88,-2.59,5.23%,5.98%,3.0/8.0,3
+SPKE,"Spark Energy, Inc",Utilities,Utilities-Regulated Electric,NASDAQ,0.46,2.67,33.33%,87.23%,43.16%,173.24%,6,2.62,-3.96,5.21%,4.93%,2.0/8.0,1
+ARTNA,Artesian Resources Corporation,Utilities,Utilities-Regulated Water,NASDAQ,0.01,3.57,28.57%,95.62%,0.00%,402.63%,5,0.85,-2.4,1.67%,3.38%,1.25/8.0,3
+PICO,"PICO Holdings, Inc",Utilities,Utilities-Regulated Water,NASDAQ,inf,,98.34%,0.00%,0.00%,0.00%,7,34.79,-2.32,6.75%,7.27%,6.25/8.0,0
+NWPX,Northwest Pipe Company,Industrials,Metal Fabrication,NASDAQ,inf,,80.00%,0.00%,0.00%,0.00%,7,5.12,-2.79,5.85%,10.06%,7.0/8.0,0
+RADA,RADA Electronic Industries Ltd,Industrials,Aerospace & Defense,NASDAQ,inf,No Debt,63.08%,0.00%,0.00%,-0.00%,5,10.4,,7.22%,-6.56%,5.0/8.0,1
+PFE,Pfizer Inc,Healthcare,Drug Manufacturers-General,NYSE,0.19,8.84,37.70%,82.58%,70.98%,206.38%,5,2.53,-2.39,4.31%,8.49%,2.75/8.0,2
+CVS,CVS Health Corporation,Healthcare,Healthcare Plans,NYSE,0.12,3.95,28.71%,107.23%,62.49%,417.48%,6,1.89,-2.34,3.20%,4.67%,2.25/8.0,2
+GME,GameStop Corp,Consumer Cyclical,Specialty Retail,NYSE,1.19,Exposed,21.70%,68.63%,0.00%,-143.84%,5,5.36,-2.18,8.82%,-0.76%,4.5/8.0,3
+AMC,"AMC Entertainment Holdings, Inc",Communication Services,Entertainment,NYSE,0.06,0.69,8.88%,391.52%,54.68%,767.85%,3,0.2,-2.71,4.40%,2.00%,1.75/8.0,5
+ORCL,Oracle Corporation,Technology,Software-Infrastructure,NYSE,0.6,7.12,10.46%,592.98%,105.40%,420.52%,7,2.04,-2.58,4.63%,14.89%,2.75/8.0,4
+HCC,"Warrior Met Coal, Inc",Basic Materials,Coking Coal,NYSE,0.61,13.21,56.99%,44.26%,25.22%,68.62%,5,,-3.58,7.93%,30.28%,5.0/8.0,0
+GPP,Green Plains Partners LP,Energy,Oil & Gas Midstream,NASDAQ,0.0,,0.00%,0.00%,138.95%,249.06%,5,1.08,-2.53,5.40%,31.65%,2.25/8.0,3
+NOA,North American Construction Group Ltd,Energy,Oil & Gas Equipment & Services,NYSE,0.02,2.81,22.70%,184.44%,41.87%,203.68%,8,1.17,-2.6,6.52%,8.08%,3.75/8.0,3
+PDS,Precision Drilling Corporation,Energy,Oil & Gas Drilling,NYSE,0.05,0.39,46.70%,93.45%,44.07%,325.06%,6,0.16,-3.52,11.08%,1.42%,3.5/8.0,3
+BNTX,BioNTech SE,Healthcare,Biotechnology,NASDAQ,inf,No Debt,61.78%,0.00%,0.00%,-0.00%,3,48.68,-2.61,0.75%,-57.02%,5.0/8.0,1
+PACB,"Pacific Biosciences of California, Inc",Healthcare,Diagnostics & Research,NASDAQ,3.06,No Debt,37.16%,29.09%,10.81%,-22.22%,6,14.75,-2.85,8.67%,-139.31%,6.0/8.0,1
+NVS,Novartis AG,Healthcare,Drug Manufacturers-General,NYSE,0.32,11.02,42.86%,63.34%,54.94%,207.67%,4,2.22,-2.71,3.74%,7.32%,3.5/8.0,1
+BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers-General,NYSE,0.33,9.01,39.71%,90.57%,107.46%,633.50%,4,1.86,-1.9,4.18%,5.87%,1.0/8.0,5
+ONVO,"Organovo Holdings, Inc",Healthcare,Diagnostics & Research,NASDAQ,inf,No Debt,96.43%,0.00%,0.00%,-0.00%,3,12.75,-5.18,5.79%,-700.00%,6.0/8.0,2
+INCY,Incyte Corporation,Healthcare,Biotechnology,NASDAQ,117.67,,75.81%,0.69%,0.58%,3.31%,2,14.88,-2.91,6.48%,34.84%,8.0/8.0,1
+IONS,"Ionis Pharmaceuticals, Inc",Healthcare,Biotechnology,NASDAQ,3.17,7.47,45.50%,53.57%,24.57%,191.26%,6,3.97,-0.33,9.01%,48.09%,3.75/8.0,1
+BEAM,Beam Therapeutics Inc,Healthcare,Biotechnology,NASDAQ,18.4,,64.74%,4.95%,3.21%,-6.67%,2,41.63,-0.96,0.75%,-130.43%,4.5/8.0,3
